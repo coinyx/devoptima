@@ -1,0 +1,33 @@
+.aboutuswrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+.aboutuswrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    top: -200px;
+}
+
+.optimaset {
+    width: 35%;
+    padding: 70px 100px;
+}
+
+.optimaset h3{
+    color: white;
+}
+
+.optimaset h5{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: gray;
+    padding-top: 10px;
+}
+

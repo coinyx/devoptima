@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Inter, Inter Fallback, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    background-color: #0A0812;
+}
+
+.container {
+    max-width: 1400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: Aeonic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 81px;
+    letter-spacing: -1%;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 81px;
+    letter-spacing: -1%;
+    margin: 0;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: -1%;
+    margin: 0;
+}
+
+h5 {
+    font-size: 28.83px;
+    line-height: 32.44px;
+    margin: 0;
+}
+
+h6 {
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0;
+}
+
+p {
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -2%;
+}
+
+a {
+    text-align: center;
+    font-size: 18px;
+}
+
+a:hover {
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+
+.primary {
+    color: white;
+    border-radius: 48px;
+    border: 1px solid #243BB9;
+    padding: 12px 36px;
+    background-color: rgba(36, 59, 185, .2);
+    margin-right: 5px;
+}
+
+.primary:hover {
+    color: white;
+    border-radius: 48px;
+    border: 1px solid #243BB9;
+    padding: 12px 36px;
+    background-color: #3F57DA;
+    transition: .5s;
+}
+
+.secondary {
+    color: white;
+    border-radius: 48px;
+    padding: 12px 36px;
+    background-color: #243BB9;
+    margin-right: 5px;
+}
+
+.secondary:hover {
+    color: white;
+    border-radius: 48px;
+    padding: 12px 36px;
+    background-color: #3F57DA;
+    transition: .5s;
+}
+
+.round {
+    width: 44px;
+    height: 44px;
+    background-color: #243BB9;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.roundcircle {
+    animation: move 5s;
+}
+
+@keyframes move {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.roundcheck {
+    width: 44px;
+    height: 44px;
+    background-color: #4DB29A;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.rounddeny {
+    width: 44px;
+    height: 44px;
+    background-color: #BE6AA7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}

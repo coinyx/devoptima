@@ -1,0 +1,32 @@
+.eachgroupset {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.eachgroup {
+    width: 45%;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.iconsize {
+    width: 70px;
+    height: 70px;
+    margin-left: -20px;
+}
+
+.eachgroup h6{
+    margin: 0;
+    color: white;
+}
+
+.eachgroup p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 22px;
+    color: gray;
+    max-width: 200px;
+    margin: 0;
+    padding-top: 5px;
+}

@@ -1,0 +1,154 @@
+.footerdevwrap {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 130px;
+    background-image: linear-gradient(180deg, #0A0812,#050b1a );
+}
+
+.footerdevwrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.devopswrap {
+    width: 100%;
+    text-align: center;
+}
+
+.devopswrap h3{
+    color: white;
+}
+
+.devopswrap h6{
+    color: gray;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -2%;
+    padding-top: 20px;
+}
+
+.btnset {
+    padding-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btnin {
+    width: 38%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerwrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 296px;
+    background-color: #0A0812;
+    border-top: 1px solid rgb(44, 43, 43);
+}
+
+.footerwrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.footerpart {
+    width: 55%;
+    padding: 25px 0;
+}
+
+.footerdetailspart {
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ftlogo {
+    display: flex;
+    height: 100%;
+}
+
+.ftlogo img{
+    width: 25.57px;
+    height: 26.13px;
+}
+
+.ftlogo h2 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: gray;
+    padding-top: 5px;
+}
+
+.footerpart p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.resource h6{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 54px;
+    color: white;
+    margin: 0;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list li{
+    padding: 10px 0;
+    color: gray;
+}
+
+.list li:hover {
+    padding: 10px 0;
+    color: white;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.sociallist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sociallist li{
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+    color: gray;
+}
+
+.sociallist li:hover {
+    color: white;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.sociallist li img {
+    display: flex;
+    padding: 10px 0;
+    padding-right: 15px;
+}

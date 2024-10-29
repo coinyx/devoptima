@@ -1,0 +1,69 @@
+.header {
+    background-color: transparent;
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+
+.headerForm {
+    background-color: #0A0812;
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+    position: fixed;
+    transition: 2s;
+}
+
+.headerwrap {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+
+}
+
+.logowrap {
+    display: flex;
+}
+
+.logowrap img {
+    width: 30.72px;
+    height: 31.36px;
+}
+
+.logowrap h5{
+    color: white;
+    padding-top: 5px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.list li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    color: gray;
+    padding: 0 15px;
+}
+
+.list li:hover {
+    cursor: pointer;
+    transition: 1s;
+}

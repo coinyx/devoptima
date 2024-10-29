@@ -1,0 +1,67 @@
+<svg width="1285" height="1055" viewBox="0 0 1285 1055" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_158)">
+<rect width="1285" height="1055" fill="url(#paint0_linear_2_158)" fill-opacity="0.01"/>
+<mask id="mask0_2_158" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-72" y="0" width="1340" height="381">
+<ellipse cx="598" cy="190.5" rx="670" ry="190.5" fill="url(#paint1_radial_2_158)"/>
+</mask>
+<g mask="url(#mask0_2_158)">
+<path d="M530.897 -278.252L530.897 562.135" stroke="#172136"/>
+<path d="M439.333 -278.252L439.333 562.135" stroke="#172136"/>
+<path d="M623.425 -278.252L623.425 562.135" stroke="#172136"/>
+<path d="M714.989 -278.252L714.989 562.135" stroke="#172136"/>
+<path d="M807.517 -278.252L807.517 562.135" stroke="#172136"/>
+<path d="M899.081 -278.252L899.081 562.135" stroke="#172136"/>
+<path d="M990.644 -278.252L990.644 562.135" stroke="#172136"/>
+<path d="M1083.17 -278.252L1083.17 562.135" stroke="#172136"/>
+<path d="M1174.74 -278.252L1174.74 562.135" stroke="#172136"/>
+<path d="M577.161 -278.252L577.161 562.135" stroke="#172136"/>
+<path d="M485.597 -278.252L485.597 562.135" stroke="#172136"/>
+<path d="M669.689 -278.252L669.689 562.135" stroke="#172136"/>
+<path d="M761.253 -278.252L761.253 562.135" stroke="#172136"/>
+<path d="M852.817 -278.252L852.817 562.135" stroke="#172136"/>
+<path d="M945.344 -278.252L945.344 562.135" stroke="#172136"/>
+<path d="M1036.91 -278.252L1036.91 562.135" stroke="#172136"/>
+<path d="M1129.44 -278.252L1129.44 562.135" stroke="#172136"/>
+<path d="M1221 -278.252L1221 562.135" stroke="#172136"/>
+<path d="M437.406 364.638L1221 364.638" stroke="#172136"/>
+<path d="M437.406 265.89L1221 265.89" stroke="#172136"/>
+<path d="M437.406 167.143L1221 167.142" stroke="#172136"/>
+<path d="M437.406 68.394L1221 68.394" stroke="#172136"/>
+<path d="M437.406 315.264L1221 315.264" stroke="#172136"/>
+<path d="M437.406 216.517L1221 216.516" stroke="#172136"/>
+<path d="M437.406 117.768L1221 117.768" stroke="#172136"/>
+<path d="M437.406 19.0204L1221 19.0204" stroke="#172136"/>
+<path d="M25.8501 -278.253L25.8501 562.135" stroke="#172136"/>
+<path d="M117.414 -278.253L117.414 562.135" stroke="#172136"/>
+<path d="M208.978 -278.253L208.978 562.135" stroke="#172136"/>
+<path d="M301.506 -278.253L301.506 562.135" stroke="#172136"/>
+<path d="M393.07 -278.253L393.07 562.135" stroke="#172136"/>
+<path d="M71.1501 -278.253L71.1502 562.135" stroke="#172136"/>
+<path d="M163.678 -278.253L163.678 562.135" stroke="#172136"/>
+<path d="M255.242 -278.253L255.242 562.135" stroke="#172136"/>
+<path d="M347.769 -278.253L347.77 562.135" stroke="#172136"/>
+<path d="M439.333 -278.253L439.333 562.135" stroke="#172136"/>
+<path d="M-344.261 364.639L439.333 364.639" stroke="#172136"/>
+<path d="M-344.261 265.891L439.333 265.89" stroke="#172136"/>
+<path d="M-344.261 167.142L439.333 167.142" stroke="#172136"/>
+<path d="M-344.261 68.394L439.333 68.3939" stroke="#172136"/>
+<path d="M-344.261 315.264L439.333 315.264" stroke="#172136"/>
+<path d="M-344.261 216.517L439.333 216.516" stroke="#172136"/>
+<path d="M-344.261 117.769L439.333 117.769" stroke="#172136"/>
+<path d="M-344.261 19.0201L439.333 19.0201" stroke="#172136"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_158" x1="642.5" y1="0" x2="642.5" y2="1055" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#0A0812"/>
+</linearGradient>
+<radialGradient id="paint1_radial_2_158" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(598 190.5) rotate(90) scale(190.5 670)">
+<stop stop-color="#0054FF"/>
+<stop offset="1" stop-color="#0A0C0F" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_2_158">
+<rect width="1285" height="1055" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,45 @@
+.cardgroup {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+.card {
+    width: 380px;
+    height: 459px;
+    border: 1px solid #749FF6;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.card:hover {
+    scale: 1.1;
+    transition: 1s;
+    border: 1px solid white;
+}
+
+.fontset h6 {
+    margin: 0;
+    padding-bottom: 15px;
+    color: #FFFFFF;
+}
+
+.fontset h4{
+    font-size: 16px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 22px;
+    color: #BDC4D1;
+}
+
+.imgsize {
+    width: 380px;
+    height: 277px;
+}
+
+.fontset {
+    width: 281px;
+    padding-right: 20px;
+    padding-left: 20px;
+}

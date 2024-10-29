@@ -1,0 +1,35 @@
+.solutionwrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+.solutionwrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.articlewrap {
+    width: 100%;
+    text-align: center;
+}
+
+.articlewrap h3{
+    color: white;
+}
+
+.articlewrap h5{
+    font-size: 20px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #BDC4D1;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

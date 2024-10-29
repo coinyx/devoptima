@@ -1,0 +1,83 @@
+.testimoniaslwrap {
+    width: 100%;
+    height: 850px;
+    display: flex;
+    justify-content: center;
+            background-image: url(/bg.svg);
+}
+
+.testimonialswrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.betweenpart {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 384px;
+    padding-bottom: 30px;
+
+}
+
+.eachpart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 100%;
+}
+
+.eachpart h6{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    color: gray;
+}
+
+.eachpartout {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 552px;
+    height: 304px;
+}
+
+.imageset {
+    width: 64px;
+    height: 64px;
+    margin-left: -20px;
+}
+
+.personal {
+    width: auto;
+    display: flex;
+    padding-top: 20px;
+}
+
+.avatarset {
+    width: 44px;
+    height: 44px;
+}
+
+.namepart {
+    padding-left: 10px;
+}
+
+.namepart h6{
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22.5px;
+}
+
+.namepart p{
+    margin: 0;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 18.75px;
+    color: gainsboro;
+}
